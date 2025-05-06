@@ -1,1 +1,3 @@
 # alpha-demo
+this is  a demo for git and github class.
+created by rakesh
